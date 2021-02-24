@@ -1,3 +1,5 @@
+
+
 header{
     background-image: url("img/pattern.png");
     background-color: sandybrown;
@@ -7,22 +9,58 @@ header{
 
 }
 
-
-img{
+.logo {
     width: 20%;
-    height: 80%;
+    margin-left: 20%;
+}
+
+
+.imgs{
+    width: 49%;
+    height: 250px;
+}
+
+main , footer{
+    width: 60%;
+    margin: auto;
+}
+
+#h1-title{
+    margin-bottom: 0;
 }
 
 .the-booleaners{
     text-decoration: none;
 }
 
-.grey-title{
+.grey-title , .data{
     color: grey;
 }
 
 .data{
-    color: grey;
     font-size: 70%;
+    margin-bottom: 20px;
 }
+
+.tim-descript {
+    font-size: 5% ;
+
+}
+
+.list {
+    padding-left: 3%;
+}
+
+table {
+    width: 100%;
+}
+
+.celeste {
+    background-color: aqua;
+}
+
+.blu {
+    background-color: lightblue;
+}
+
 
